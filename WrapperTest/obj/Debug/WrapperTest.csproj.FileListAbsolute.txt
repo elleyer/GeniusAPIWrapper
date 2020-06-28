@@ -1,0 +1,14 @@
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\bin\Debug\WrapperTest.exe
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\bin\Debug\WrapperTest.pdb
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\obj\Debug\WrapperTest.csprojAssemblyReference.cache
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\obj\Debug\WrapperTest.csproj.CoreCompileInputs.cache
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\obj\Debug\WrapperTest.exe
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\obj\Debug\WrapperTest.pdb
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\bin\Debug\GeniusAPIWrapper.dll
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\bin\Debug\GeniusAPIWrapper.pdb
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\obj\Debug\WrapperTest.csproj.CopyComplete
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\eliio\RiderProjects\GeniusAPIWrapper\WrapperTest\bin\Debug\HtmlAgilityPack.xml
